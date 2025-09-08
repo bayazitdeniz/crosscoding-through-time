@@ -1,0 +1,240 @@
+{"sentence_good":"Les auteurs sont vieux","sentence_bad":"Les auteurs est vieux","clean_prefix":"Les auteurs","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les auteurs sont jeunes","sentence_bad":"Les auteurs est jeune","clean_prefix":"Les auteurs","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les auteurs sont petits","sentence_bad":"Les auteurs est petit","clean_prefix":"Les auteurs","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les auteurs sont grands","sentence_bad":"Les auteurs est grand","clean_prefix":"Les auteurs","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les auteurs déménagent","sentence_bad":"Les auteurs déménage","clean_prefix":"Les auteurs démén","clean_answer":"agent","patch_answer":"age","skip":false}
+{"sentence_good":"Les auteurs parlent","sentence_bad":"Les auteurs parle","clean_prefix":"Les auteurs","clean_answer":" parlent","patch_answer":" parle","skip":false}
+{"sentence_good":"Les directeurs sont vieux","sentence_bad":"Les directeurs est vieux","clean_prefix":"Les directeurs","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les directeurs sont jeunes","sentence_bad":"Les directeurs est jeune","clean_prefix":"Les directeurs","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les directeurs sont petits","sentence_bad":"Les directeurs est petit","clean_prefix":"Les directeurs","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les directeurs sont grands","sentence_bad":"Les directeurs est grand","clean_prefix":"Les directeurs","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les directeurs déménagent","sentence_bad":"Les directeurs déménage","clean_prefix":"Les directeurs démén","clean_answer":"agent","patch_answer":"age","skip":false}
+{"sentence_good":"Les directeurs parlent","sentence_bad":"Les directeurs parle","clean_prefix":"Les directeurs","clean_answer":" parlent","patch_answer":" parle","skip":false}
+{"sentence_good":"Les agriculteurs sont vieux","sentence_bad":"Les agriculteurs est vieux","clean_prefix":"Les agriculteurs","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les agriculteurs sont jeunes","sentence_bad":"Les agriculteurs est jeune","clean_prefix":"Les agriculteurs","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les agriculteurs sont petits","sentence_bad":"Les agriculteurs est petit","clean_prefix":"Les agriculteurs","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les agriculteurs sont grands","sentence_bad":"Les agriculteurs est grand","clean_prefix":"Les agriculteurs","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les agriculteurs déménagent","sentence_bad":"Les agriculteurs déménage","clean_prefix":"Les agriculteurs démén","clean_answer":"agent","patch_answer":"age","skip":false}
+{"sentence_good":"Les agriculteurs parlent","sentence_bad":"Les agriculteurs parle","clean_prefix":"Les agriculteurs","clean_answer":" parlent","patch_answer":" parle","skip":false}
+{"sentence_good":"Les chirurgiens sont vieux","sentence_bad":"Les chirurgiens est vieux","clean_prefix":"Les chirurgiens","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les chirurgiens sont jeunes","sentence_bad":"Les chirurgiens est jeune","clean_prefix":"Les chirurgiens","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les chirurgiens sont petits","sentence_bad":"Les chirurgiens est petit","clean_prefix":"Les chirurgiens","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les chirurgiens sont grands","sentence_bad":"Les chirurgiens est grand","clean_prefix":"Les chirurgiens","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les chirurgiens déménagent","sentence_bad":"Les chirurgiens déménage","clean_prefix":"Les chirurgiens démén","clean_answer":"agent","patch_answer":"age","skip":false}
+{"sentence_good":"Les chirurgiens parlent","sentence_bad":"Les chirurgiens parle","clean_prefix":"Les chirurgiens","clean_answer":" parlent","patch_answer":" parle","skip":false}
+{"sentence_good":"Les sénateurs sont vieux","sentence_bad":"Les sénateurs est vieux","clean_prefix":"Les sénateurs","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les sénateurs sont jeunes","sentence_bad":"Les sénateurs est jeune","clean_prefix":"Les sénateurs","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les sénateurs sont petits","sentence_bad":"Les sénateurs est petit","clean_prefix":"Les sénateurs","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les sénateurs sont grands","sentence_bad":"Les sénateurs est grand","clean_prefix":"Les sénateurs","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les sénateurs déménagent","sentence_bad":"Les sénateurs déménage","clean_prefix":"Les sénateurs démén","clean_answer":"agent","patch_answer":"age","skip":false}
+{"sentence_good":"Les sénateurs parlent","sentence_bad":"Les sénateurs parle","clean_prefix":"Les sénateurs","clean_answer":" parlent","patch_answer":" parle","skip":false}
+{"sentence_good":"Les professeurs sont vieux","sentence_bad":"Les professeurs est vieux","clean_prefix":"Les professeurs","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les professeurs sont jeunes","sentence_bad":"Les professeurs est jeune","clean_prefix":"Les professeurs","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les professeurs sont petits","sentence_bad":"Les professeurs est petit","clean_prefix":"Les professeurs","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les professeurs sont grands","sentence_bad":"Les professeurs est grand","clean_prefix":"Les professeurs","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les professeurs déménagent","sentence_bad":"Les professeurs déménage","clean_prefix":"Les professeurs démén","clean_answer":"agent","patch_answer":"age","skip":false}
+{"sentence_good":"Les professeurs parlent","sentence_bad":"Les professeurs parle","clean_prefix":"Les professeurs","clean_answer":" parlent","patch_answer":" parle","skip":false}
+{"sentence_good":"Les clients sont vieux","sentence_bad":"Les clients est vieux","clean_prefix":"Les clients","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les clients sont jeunes","sentence_bad":"Les clients est jeune","clean_prefix":"Les clients","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les clients sont petits","sentence_bad":"Les clients est petit","clean_prefix":"Les clients","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les clients sont grands","sentence_bad":"Les clients est grand","clean_prefix":"Les clients","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les clients déménagent","sentence_bad":"Les clients déménage","clean_prefix":"Les clients démén","clean_answer":"agent","patch_answer":"age","skip":false}
+{"sentence_good":"Les clients parlent","sentence_bad":"Les clients parle","clean_prefix":"Les clients","clean_answer":" parlent","patch_answer":" parle","skip":false}
+{"sentence_good":"Les officiers sont vieux","sentence_bad":"Les officiers est vieux","clean_prefix":"Les officiers","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les officiers sont jeunes","sentence_bad":"Les officiers est jeune","clean_prefix":"Les officiers","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les officiers sont petits","sentence_bad":"Les officiers est petit","clean_prefix":"Les officiers","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les officiers sont grands","sentence_bad":"Les officiers est grand","clean_prefix":"Les officiers","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les officiers déménagent","sentence_bad":"Les officiers déménage","clean_prefix":"Les officiers démén","clean_answer":"agent","patch_answer":"age","skip":false}
+{"sentence_good":"Les officiers parlent","sentence_bad":"Les officiers parle","clean_prefix":"Les officiers","clean_answer":" parlent","patch_answer":" parle","skip":false}
+{"sentence_good":"Les pilotes sont vieux","sentence_bad":"Les pilotes est vieux","clean_prefix":"Les pilotes","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les pilotes sont jeunes","sentence_bad":"Les pilotes est jeune","clean_prefix":"Les pilotes","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les pilotes sont petits","sentence_bad":"Les pilotes est petit","clean_prefix":"Les pilotes","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les pilotes sont grands","sentence_bad":"Les pilotes est grand","clean_prefix":"Les pilotes","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les pilotes déménagent","sentence_bad":"Les pilotes déménage","clean_prefix":"Les pilotes démén","clean_answer":"agent","patch_answer":"age","skip":false}
+{"sentence_good":"Les pilotes parlent","sentence_bad":"Les pilotes parle","clean_prefix":"Les pilotes","clean_answer":" parlent","patch_answer":" parle","skip":false}
+{"sentence_good":"Les consultants sont vieux","sentence_bad":"Les consultants est vieux","clean_prefix":"Les consultants","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les consultants sont jeunes","sentence_bad":"Les consultants est jeune","clean_prefix":"Les consultants","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les consultants sont petits","sentence_bad":"Les consultants est petit","clean_prefix":"Les consultants","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les consultants sont grands","sentence_bad":"Les consultants est grand","clean_prefix":"Les consultants","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les consultants déménagent","sentence_bad":"Les consultants déménage","clean_prefix":"Les consultants démén","clean_answer":"agent","patch_answer":"age","skip":false}
+{"sentence_good":"Les consultants parlent","sentence_bad":"Les consultants parle","clean_prefix":"Les consultants","clean_answer":" parlent","patch_answer":" parle","skip":false}
+{"sentence_good":"L' auteur est vieux","sentence_bad":"L' auteur sont vieux","clean_prefix":"L' auteur","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"L' auteur est jeune","sentence_bad":"L' auteur sont jeunes","clean_prefix":"L' auteur","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"L' auteur est petit","sentence_bad":"L' auteur sont petits","clean_prefix":"L' auteur","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"L' auteur est grand","sentence_bad":"L' auteur sont grands","clean_prefix":"L' auteur","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"L' auteur déménage","sentence_bad":"L' auteur déménagent","clean_prefix":"L' auteur démén","clean_answer":"age","patch_answer":"agent","skip":false}
+{"sentence_good":"L' auteur parle","sentence_bad":"L' auteur parlent","clean_prefix":"L' auteur","clean_answer":" parle","patch_answer":" parlent","skip":false}
+{"sentence_good":"Le directeur est vieux","sentence_bad":"Le directeur sont vieux","clean_prefix":"Le directeur","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le directeur est jeune","sentence_bad":"Le directeur sont jeunes","clean_prefix":"Le directeur","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le directeur est petit","sentence_bad":"Le directeur sont petits","clean_prefix":"Le directeur","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le directeur est grand","sentence_bad":"Le directeur sont grands","clean_prefix":"Le directeur","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le directeur déménage","sentence_bad":"Le directeur déménagent","clean_prefix":"Le directeur démén","clean_answer":"age","patch_answer":"agent","skip":false}
+{"sentence_good":"Le directeur parle","sentence_bad":"Le directeur parlent","clean_prefix":"Le directeur","clean_answer":" parle","patch_answer":" parlent","skip":false}
+{"sentence_good":"L' agriculteur est vieux","sentence_bad":"L' agriculteur sont vieux","clean_prefix":"L' agriculteur","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"L' agriculteur est jeune","sentence_bad":"L' agriculteur sont jeunes","clean_prefix":"L' agriculteur","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"L' agriculteur est petit","sentence_bad":"L' agriculteur sont petits","clean_prefix":"L' agriculteur","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"L' agriculteur est grand","sentence_bad":"L' agriculteur sont grands","clean_prefix":"L' agriculteur","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"L' agriculteur déménage","sentence_bad":"L' agriculteur déménagent","clean_prefix":"L' agriculteur démén","clean_answer":"age","patch_answer":"agent","skip":false}
+{"sentence_good":"L' agriculteur parle","sentence_bad":"L' agriculteur parlent","clean_prefix":"L' agriculteur","clean_answer":" parle","patch_answer":" parlent","skip":false}
+{"sentence_good":"Le chirurgien est vieux","sentence_bad":"Le chirurgien sont vieux","clean_prefix":"Le chirurgien","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le chirurgien est jeune","sentence_bad":"Le chirurgien sont jeunes","clean_prefix":"Le chirurgien","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le chirurgien est petit","sentence_bad":"Le chirurgien sont petits","clean_prefix":"Le chirurgien","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le chirurgien est grand","sentence_bad":"Le chirurgien sont grands","clean_prefix":"Le chirurgien","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le chirurgien déménage","sentence_bad":"Le chirurgien déménagent","clean_prefix":"Le chirurgien démén","clean_answer":"age","patch_answer":"agent","skip":false}
+{"sentence_good":"Le chirurgien parle","sentence_bad":"Le chirurgien parlent","clean_prefix":"Le chirurgien","clean_answer":" parle","patch_answer":" parlent","skip":false}
+{"sentence_good":"Le sénateur est vieux","sentence_bad":"Le sénateur sont vieux","clean_prefix":"Le sénateur","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le sénateur est jeune","sentence_bad":"Le sénateur sont jeunes","clean_prefix":"Le sénateur","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le sénateur est petit","sentence_bad":"Le sénateur sont petits","clean_prefix":"Le sénateur","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le sénateur est grand","sentence_bad":"Le sénateur sont grands","clean_prefix":"Le sénateur","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le sénateur déménage","sentence_bad":"Le sénateur déménagent","clean_prefix":"Le sénateur démén","clean_answer":"age","patch_answer":"agent","skip":false}
+{"sentence_good":"Le sénateur parle","sentence_bad":"Le sénateur parlent","clean_prefix":"Le sénateur","clean_answer":" parle","patch_answer":" parlent","skip":false}
+{"sentence_good":"Le professeur est vieux","sentence_bad":"Le professeur sont vieux","clean_prefix":"Le professeur","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le professeur est jeune","sentence_bad":"Le professeur sont jeunes","clean_prefix":"Le professeur","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le professeur est petit","sentence_bad":"Le professeur sont petits","clean_prefix":"Le professeur","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le professeur est grand","sentence_bad":"Le professeur sont grands","clean_prefix":"Le professeur","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le professeur déménage","sentence_bad":"Le professeur déménagent","clean_prefix":"Le professeur démén","clean_answer":"age","patch_answer":"agent","skip":false}
+{"sentence_good":"Le professeur parle","sentence_bad":"Le professeur parlent","clean_prefix":"Le professeur","clean_answer":" parle","patch_answer":" parlent","skip":false}
+{"sentence_good":"Le client est vieux","sentence_bad":"Le client sont vieux","clean_prefix":"Le client","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le client est jeune","sentence_bad":"Le client sont jeunes","clean_prefix":"Le client","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le client est petit","sentence_bad":"Le client sont petits","clean_prefix":"Le client","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le client est grand","sentence_bad":"Le client sont grands","clean_prefix":"Le client","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le client déménage","sentence_bad":"Le client déménagent","clean_prefix":"Le client démén","clean_answer":"age","patch_answer":"agent","skip":false}
+{"sentence_good":"Le client parle","sentence_bad":"Le client parlent","clean_prefix":"Le client","clean_answer":" parle","patch_answer":" parlent","skip":false}
+{"sentence_good":"L' officier est vieux","sentence_bad":"L' officier sont vieux","clean_prefix":"L' officier","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"L' officier est jeune","sentence_bad":"L' officier sont jeunes","clean_prefix":"L' officier","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"L' officier est petit","sentence_bad":"L' officier sont petits","clean_prefix":"L' officier","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"L' officier est grand","sentence_bad":"L' officier sont grands","clean_prefix":"L' officier","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"L' officier déménage","sentence_bad":"L' officier déménagent","clean_prefix":"L' officier démén","clean_answer":"age","patch_answer":"agent","skip":false}
+{"sentence_good":"L' officier parle","sentence_bad":"L' officier parlent","clean_prefix":"L' officier","clean_answer":" parle","patch_answer":" parlent","skip":false}
+{"sentence_good":"Le pilote est vieux","sentence_bad":"Le pilote sont vieux","clean_prefix":"Le pilote","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le pilote est jeune","sentence_bad":"Le pilote sont jeunes","clean_prefix":"Le pilote","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le pilote est petit","sentence_bad":"Le pilote sont petits","clean_prefix":"Le pilote","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le pilote est grand","sentence_bad":"Le pilote sont grands","clean_prefix":"Le pilote","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le pilote déménage","sentence_bad":"Le pilote déménagent","clean_prefix":"Le pilote démén","clean_answer":"age","patch_answer":"agent","skip":false}
+{"sentence_good":"Le pilote parle","sentence_bad":"Le pilote parlent","clean_prefix":"Le pilote","clean_answer":" parle","patch_answer":" parlent","skip":false}
+{"sentence_good":"Le consultant est vieux","sentence_bad":"Le consultant sont vieux","clean_prefix":"Le consultant","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le consultant est jeune","sentence_bad":"Le consultant sont jeunes","clean_prefix":"Le consultant","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le consultant est petit","sentence_bad":"Le consultant sont petits","clean_prefix":"Le consultant","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le consultant est grand","sentence_bad":"Le consultant sont grands","clean_prefix":"Le consultant","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le consultant déménage","sentence_bad":"Le consultant déménagent","clean_prefix":"Le consultant démén","clean_answer":"age","patch_answer":"agent","skip":false}
+{"sentence_good":"Le consultant parle","sentence_bad":"Le consultant parlent","clean_prefix":"Le consultant","clean_answer":" parle","patch_answer":" parlent","skip":false}
+{"sentence_good":"Les gardes sont vieux","sentence_bad":"Les gardes est vieux","clean_prefix":"Les gardes","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les gardes sont jeunes","sentence_bad":"Les gardes est jeune","clean_prefix":"Les gardes","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les gardes sont petits","sentence_bad":"Les gardes est petit","clean_prefix":"Les gardes","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les gardes sont grands","sentence_bad":"Les gardes est grand","clean_prefix":"Les gardes","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les gardes déménagent","sentence_bad":"Les gardes déménage","clean_prefix":"Les gardes démén","clean_answer":"agent","patch_answer":"age","skip":false}
+{"sentence_good":"Les gardes parlent","sentence_bad":"Les gardes parle","clean_prefix":"Les gardes","clean_answer":" parlent","patch_answer":" parle","skip":false}
+{"sentence_good":"Les ministres sont vieux","sentence_bad":"Les ministres est vieux","clean_prefix":"Les ministres","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les ministres sont jeunes","sentence_bad":"Les ministres est jeune","clean_prefix":"Les ministres","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les ministres sont petits","sentence_bad":"Les ministres est petit","clean_prefix":"Les ministres","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les ministres sont grands","sentence_bad":"Les ministres est grand","clean_prefix":"Les ministres","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les ministres déménagent","sentence_bad":"Les ministres déménage","clean_prefix":"Les ministres démén","clean_answer":"agent","patch_answer":"age","skip":false}
+{"sentence_good":"Les ministres parlent","sentence_bad":"Les ministres parle","clean_prefix":"Les ministres","clean_answer":" parlent","patch_answer":" parle","skip":false}
+{"sentence_good":"Les cadres sont vieux","sentence_bad":"Les cadres est vieux","clean_prefix":"Les cadres","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les cadres sont jeunes","sentence_bad":"Les cadres est jeune","clean_prefix":"Les cadres","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les cadres sont petits","sentence_bad":"Les cadres est petit","clean_prefix":"Les cadres","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les cadres sont grands","sentence_bad":"Les cadres est grand","clean_prefix":"Les cadres","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les cadres déménagent","sentence_bad":"Les cadres déménage","clean_prefix":"Les cadres démén","clean_answer":"agent","patch_answer":"age","skip":false}
+{"sentence_good":"Les cadres parlent","sentence_bad":"Les cadres parle","clean_prefix":"Les cadres","clean_answer":" parlent","patch_answer":" parle","skip":false}
+{"sentence_good":"Les adjoints sont vieux","sentence_bad":"Les adjoints est vieux","clean_prefix":"Les adjoints","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les adjoints sont jeunes","sentence_bad":"Les adjoints est jeune","clean_prefix":"Les adjoints","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les adjoints sont petits","sentence_bad":"Les adjoints est petit","clean_prefix":"Les adjoints","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les adjoints sont grands","sentence_bad":"Les adjoints est grand","clean_prefix":"Les adjoints","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les adjoints déménagent","sentence_bad":"Les adjoints déménage","clean_prefix":"Les adjoints démén","clean_answer":"agent","patch_answer":"age","skip":false}
+{"sentence_good":"Les adjoints parlent","sentence_bad":"Les adjoints parle","clean_prefix":"Les adjoints","clean_answer":" parlent","patch_answer":" parle","skip":false}
+{"sentence_good":"Les chauffeurs de taxi sont vieux","sentence_bad":"Les chauffeurs de taxi est vieux","clean_prefix":"Les chauffeurs de taxi","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les chauffeurs de taxi sont jeunes","sentence_bad":"Les chauffeurs de taxi est jeune","clean_prefix":"Les chauffeurs de taxi","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les chauffeurs de taxi sont petits","sentence_bad":"Les chauffeurs de taxi est petit","clean_prefix":"Les chauffeurs de taxi","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les chauffeurs de taxi sont grands","sentence_bad":"Les chauffeurs de taxi est grand","clean_prefix":"Les chauffeurs de taxi","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les chauffeurs de taxi déménagent","sentence_bad":"Les chauffeurs de taxi déménage","clean_prefix":"Les chauffeurs de taxi démén","clean_answer":"agent","patch_answer":"age","skip":false}
+{"sentence_good":"Les chauffeurs de taxi parlent","sentence_bad":"Les chauffeurs de taxi parle","clean_prefix":"Les chauffeurs de taxi","clean_answer":" parlent","patch_answer":" parle","skip":false}
+{"sentence_good":"Les danseurs sont vieux","sentence_bad":"Les danseurs est vieux","clean_prefix":"Les danseurs","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les danseurs sont jeunes","sentence_bad":"Les danseurs est jeune","clean_prefix":"Les danseurs","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les danseurs sont petits","sentence_bad":"Les danseurs est petit","clean_prefix":"Les danseurs","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les danseurs sont grands","sentence_bad":"Les danseurs est grand","clean_prefix":"Les danseurs","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les danseurs déménagent","sentence_bad":"Les danseurs déménage","clean_prefix":"Les danseurs démén","clean_answer":"agent","patch_answer":"age","skip":false}
+{"sentence_good":"Les danseurs parlent","sentence_bad":"Les danseurs parle","clean_prefix":"Les danseurs","clean_answer":" parlent","patch_answer":" parle","skip":false}
+{"sentence_good":"Les architectes sont vieux","sentence_bad":"Les architectes est vieux","clean_prefix":"Les architectes","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les architectes sont jeunes","sentence_bad":"Les architectes est jeune","clean_prefix":"Les architectes","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les architectes sont petits","sentence_bad":"Les architectes est petit","clean_prefix":"Les architectes","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les architectes sont grands","sentence_bad":"Les architectes est grand","clean_prefix":"Les architectes","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les architectes déménagent","sentence_bad":"Les architectes déménage","clean_prefix":"Les architectes démén","clean_answer":"agent","patch_answer":"age","skip":false}
+{"sentence_good":"Les architectes parlent","sentence_bad":"Les architectes parle","clean_prefix":"Les architectes","clean_answer":" parlent","patch_answer":" parle","skip":false}
+{"sentence_good":"Les chefs sont vieux","sentence_bad":"Les chefs est vieux","clean_prefix":"Les chefs","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les chefs sont jeunes","sentence_bad":"Les chefs est jeune","clean_prefix":"Les chefs","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les chefs sont petits","sentence_bad":"Les chefs est petit","clean_prefix":"Les chefs","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les chefs sont grands","sentence_bad":"Les chefs est grand","clean_prefix":"Les chefs","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les chefs déménagent","sentence_bad":"Les chefs déménage","clean_prefix":"Les chefs démén","clean_answer":"agent","patch_answer":"age","skip":false}
+{"sentence_good":"Les chefs parlent","sentence_bad":"Les chefs parle","clean_prefix":"Les chefs","clean_answer":" parlent","patch_answer":" parle","skip":false}
+{"sentence_good":"Les patineurs sont vieux","sentence_bad":"Les patineurs est vieux","clean_prefix":"Les patineurs","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les patineurs sont jeunes","sentence_bad":"Les patineurs est jeune","clean_prefix":"Les patineurs","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les patineurs sont petits","sentence_bad":"Les patineurs est petit","clean_prefix":"Les patineurs","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les patineurs sont grands","sentence_bad":"Les patineurs est grand","clean_prefix":"Les patineurs","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les patineurs déménagent","sentence_bad":"Les patineurs déménage","clean_prefix":"Les patineurs démén","clean_answer":"agent","patch_answer":"age","skip":false}
+{"sentence_good":"Les patineurs parlent","sentence_bad":"Les patineurs parle","clean_prefix":"Les patineurs","clean_answer":" parlent","patch_answer":" parle","skip":false}
+{"sentence_good":"Les parents sont vieux","sentence_bad":"Les parents est vieux","clean_prefix":"Les parents","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les parents sont jeunes","sentence_bad":"Les parents est jeune","clean_prefix":"Les parents","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les parents sont petits","sentence_bad":"Les parents est petit","clean_prefix":"Les parents","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les parents sont grands","sentence_bad":"Les parents est grand","clean_prefix":"Les parents","clean_answer":" sont","patch_answer":" est","skip":false}
+{"sentence_good":"Les parents déménagent","sentence_bad":"Les parents déménage","clean_prefix":"Les parents démén","clean_answer":"agent","patch_answer":"age","skip":false}
+{"sentence_good":"Les parents parlent","sentence_bad":"Les parents parle","clean_prefix":"Les parents","clean_answer":" parlent","patch_answer":" parle","skip":false}
+{"sentence_good":"Le garde est vieux","sentence_bad":"Le garde sont vieux","clean_prefix":"Le garde","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le garde est jeune","sentence_bad":"Le garde sont jeunes","clean_prefix":"Le garde","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le garde est petit","sentence_bad":"Le garde sont petits","clean_prefix":"Le garde","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le garde est grand","sentence_bad":"Le garde sont grands","clean_prefix":"Le garde","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le garde déménage","sentence_bad":"Le garde déménagent","clean_prefix":"Le garde démén","clean_answer":"age","patch_answer":"agent","skip":false}
+{"sentence_good":"Le garde parle","sentence_bad":"Le garde parlent","clean_prefix":"Le garde","clean_answer":" parle","patch_answer":" parlent","skip":false}
+{"sentence_good":"Le ministre est vieux","sentence_bad":"Le ministre sont vieux","clean_prefix":"Le ministre","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le ministre est jeune","sentence_bad":"Le ministre sont jeunes","clean_prefix":"Le ministre","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le ministre est petit","sentence_bad":"Le ministre sont petits","clean_prefix":"Le ministre","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le ministre est grand","sentence_bad":"Le ministre sont grands","clean_prefix":"Le ministre","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le ministre déménage","sentence_bad":"Le ministre déménagent","clean_prefix":"Le ministre démén","clean_answer":"age","patch_answer":"agent","skip":false}
+{"sentence_good":"Le ministre parle","sentence_bad":"Le ministre parlent","clean_prefix":"Le ministre","clean_answer":" parle","patch_answer":" parlent","skip":false}
+{"sentence_good":"Le cadre est vieux","sentence_bad":"Le cadre sont vieux","clean_prefix":"Le cadre","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le cadre est jeune","sentence_bad":"Le cadre sont jeunes","clean_prefix":"Le cadre","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le cadre est petit","sentence_bad":"Le cadre sont petits","clean_prefix":"Le cadre","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le cadre est grand","sentence_bad":"Le cadre sont grands","clean_prefix":"Le cadre","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le cadre déménage","sentence_bad":"Le cadre déménagent","clean_prefix":"Le cadre démén","clean_answer":"age","patch_answer":"agent","skip":false}
+{"sentence_good":"Le cadre parle","sentence_bad":"Le cadre parlent","clean_prefix":"Le cadre","clean_answer":" parle","patch_answer":" parlent","skip":false}
+{"sentence_good":"L' adjoint est vieux","sentence_bad":"L' adjoint sont vieux","clean_prefix":"L' adjoint","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"L' adjoint est jeune","sentence_bad":"L' adjoint sont jeunes","clean_prefix":"L' adjoint","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"L' adjoint est petit","sentence_bad":"L' adjoint sont petits","clean_prefix":"L' adjoint","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"L' adjoint est grand","sentence_bad":"L' adjoint sont grands","clean_prefix":"L' adjoint","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"L' adjoint déménage","sentence_bad":"L' adjoint déménagent","clean_prefix":"L' adjoint démén","clean_answer":"age","patch_answer":"agent","skip":false}
+{"sentence_good":"L' adjoint parle","sentence_bad":"L' adjoint parlent","clean_prefix":"L' adjoint","clean_answer":" parle","patch_answer":" parlent","skip":false}
+{"sentence_good":"Le chauffeur de taxi est vieux","sentence_bad":"Le chauffeur de taxi sont vieux","clean_prefix":"Le chauffeur de taxi","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le chauffeur de taxi est jeune","sentence_bad":"Le chauffeur de taxi sont jeunes","clean_prefix":"Le chauffeur de taxi","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le chauffeur de taxi est petit","sentence_bad":"Le chauffeur de taxi sont petits","clean_prefix":"Le chauffeur de taxi","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le chauffeur de taxi est grand","sentence_bad":"Le chauffeur de taxi sont grands","clean_prefix":"Le chauffeur de taxi","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le chauffeur de taxi déménage","sentence_bad":"Le chauffeur de taxi déménagent","clean_prefix":"Le chauffeur de taxi démén","clean_answer":"age","patch_answer":"agent","skip":false}
+{"sentence_good":"Le chauffeur de taxi parle","sentence_bad":"Le chauffeur de taxi parlent","clean_prefix":"Le chauffeur de taxi","clean_answer":" parle","patch_answer":" parlent","skip":false}
+{"sentence_good":"Le danseur est vieux","sentence_bad":"Le danseur sont vieux","clean_prefix":"Le danseur","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le danseur est jeune","sentence_bad":"Le danseur sont jeunes","clean_prefix":"Le danseur","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le danseur est petit","sentence_bad":"Le danseur sont petits","clean_prefix":"Le danseur","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le danseur est grand","sentence_bad":"Le danseur sont grands","clean_prefix":"Le danseur","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le danseur déménage","sentence_bad":"Le danseur déménagent","clean_prefix":"Le danseur démén","clean_answer":"age","patch_answer":"agent","skip":false}
+{"sentence_good":"Le danseur parle","sentence_bad":"Le danseur parlent","clean_prefix":"Le danseur","clean_answer":" parle","patch_answer":" parlent","skip":false}
+{"sentence_good":"L' architecte est vieux","sentence_bad":"L' architecte sont vieux","clean_prefix":"L' architecte","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"L' architecte est jeune","sentence_bad":"L' architecte sont jeunes","clean_prefix":"L' architecte","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"L' architecte est petit","sentence_bad":"L' architecte sont petits","clean_prefix":"L' architecte","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"L' architecte est grand","sentence_bad":"L' architecte sont grands","clean_prefix":"L' architecte","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"L' architecte déménage","sentence_bad":"L' architecte déménagent","clean_prefix":"L' architecte démén","clean_answer":"age","patch_answer":"agent","skip":false}
+{"sentence_good":"L' architecte parle","sentence_bad":"L' architecte parlent","clean_prefix":"L' architecte","clean_answer":" parle","patch_answer":" parlent","skip":false}
+{"sentence_good":"Le chef est vieux","sentence_bad":"Le chef sont vieux","clean_prefix":"Le chef","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le chef est jeune","sentence_bad":"Le chef sont jeunes","clean_prefix":"Le chef","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le chef est petit","sentence_bad":"Le chef sont petits","clean_prefix":"Le chef","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le chef est grand","sentence_bad":"Le chef sont grands","clean_prefix":"Le chef","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le chef déménage","sentence_bad":"Le chef déménagent","clean_prefix":"Le chef démén","clean_answer":"age","patch_answer":"agent","skip":false}
+{"sentence_good":"Le chef parle","sentence_bad":"Le chef parlent","clean_prefix":"Le chef","clean_answer":" parle","patch_answer":" parlent","skip":false}
+{"sentence_good":"Le patineur est vieux","sentence_bad":"Le patineur sont vieux","clean_prefix":"Le patineur","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le patineur est jeune","sentence_bad":"Le patineur sont jeunes","clean_prefix":"Le patineur","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le patineur est petit","sentence_bad":"Le patineur sont petits","clean_prefix":"Le patineur","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le patineur est grand","sentence_bad":"Le patineur sont grands","clean_prefix":"Le patineur","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le patineur déménage","sentence_bad":"Le patineur déménagent","clean_prefix":"Le patineur démén","clean_answer":"age","patch_answer":"agent","skip":false}
+{"sentence_good":"Le patineur parle","sentence_bad":"Le patineur parlent","clean_prefix":"Le patineur","clean_answer":" parle","patch_answer":" parlent","skip":false}
+{"sentence_good":"Le parent est vieux","sentence_bad":"Le parent sont vieux","clean_prefix":"Le parent","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le parent est jeune","sentence_bad":"Le parent sont jeunes","clean_prefix":"Le parent","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le parent est petit","sentence_bad":"Le parent sont petits","clean_prefix":"Le parent","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le parent est grand","sentence_bad":"Le parent sont grands","clean_prefix":"Le parent","clean_answer":" est","patch_answer":" sont","skip":false}
+{"sentence_good":"Le parent déménage","sentence_bad":"Le parent déménagent","clean_prefix":"Le parent démén","clean_answer":"age","patch_answer":"agent","skip":false}
+{"sentence_good":"Le parent parle","sentence_bad":"Le parent parlent","clean_prefix":"Le parent","clean_answer":" parle","patch_answer":" parlent","skip":false}

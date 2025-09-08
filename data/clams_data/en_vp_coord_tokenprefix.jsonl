@@ -1,0 +1,480 @@
+{"sentence_good":"The authors laugh and are tall","sentence_bad":"The authors laugh and is tall","skip":false,"clean_prefix":"The authors laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The authors laugh and are old","sentence_bad":"The authors laugh and is old","skip":false,"clean_prefix":"The authors laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The authors laugh and are young","sentence_bad":"The authors laugh and is young","skip":false,"clean_prefix":"The authors laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The authors laugh and are short","sentence_bad":"The authors laugh and is short","skip":false,"clean_prefix":"The authors laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The authors swim and are tall","sentence_bad":"The authors swim and is tall","skip":false,"clean_prefix":"The authors swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The authors swim and are old","sentence_bad":"The authors swim and is old","skip":false,"clean_prefix":"The authors swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The authors swim and are young","sentence_bad":"The authors swim and is young","skip":false,"clean_prefix":"The authors swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The authors swim and are short","sentence_bad":"The authors swim and is short","skip":false,"clean_prefix":"The authors swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The authors smile and are tall","sentence_bad":"The authors smile and is tall","skip":false,"clean_prefix":"The authors smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The authors smile and are old","sentence_bad":"The authors smile and is old","skip":false,"clean_prefix":"The authors smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The authors smile and are young","sentence_bad":"The authors smile and is young","skip":false,"clean_prefix":"The authors smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The authors smile and are short","sentence_bad":"The authors smile and is short","skip":false,"clean_prefix":"The authors smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The authors are tall and are old","sentence_bad":"The authors are tall and is old","skip":false,"clean_prefix":"The authors are tall and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The authors are tall and are young","sentence_bad":"The authors are tall and is young","skip":false,"clean_prefix":"The authors are tall and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The authors are tall and are short","sentence_bad":"The authors are tall and is short","skip":false,"clean_prefix":"The authors are tall and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The authors are old and are tall","sentence_bad":"The authors are old and is tall","skip":false,"clean_prefix":"The authors are old and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The authors are old and are young","sentence_bad":"The authors are old and is young","skip":false,"clean_prefix":"The authors are old and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The authors are old and are short","sentence_bad":"The authors are old and is short","skip":false,"clean_prefix":"The authors are old and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The authors are young and are tall","sentence_bad":"The authors are young and is tall","skip":false,"clean_prefix":"The authors are young and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The authors are young and are old","sentence_bad":"The authors are young and is old","skip":false,"clean_prefix":"The authors are young and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The authors are young and are short","sentence_bad":"The authors are young and is short","skip":false,"clean_prefix":"The authors are young and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The authors are short and are tall","sentence_bad":"The authors are short and is tall","skip":false,"clean_prefix":"The authors are short and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The authors are short and are old","sentence_bad":"The authors are short and is old","skip":false,"clean_prefix":"The authors are short and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The authors are short and are young","sentence_bad":"The authors are short and is young","skip":false,"clean_prefix":"The authors are short and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The pilots laugh and are tall","sentence_bad":"The pilots laugh and is tall","skip":false,"clean_prefix":"The pilots laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The pilots laugh and are old","sentence_bad":"The pilots laugh and is old","skip":false,"clean_prefix":"The pilots laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The pilots laugh and are young","sentence_bad":"The pilots laugh and is young","skip":false,"clean_prefix":"The pilots laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The pilots laugh and are short","sentence_bad":"The pilots laugh and is short","skip":false,"clean_prefix":"The pilots laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The pilots swim and are tall","sentence_bad":"The pilots swim and is tall","skip":false,"clean_prefix":"The pilots swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The pilots swim and are old","sentence_bad":"The pilots swim and is old","skip":false,"clean_prefix":"The pilots swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The pilots swim and are young","sentence_bad":"The pilots swim and is young","skip":false,"clean_prefix":"The pilots swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The pilots swim and are short","sentence_bad":"The pilots swim and is short","skip":false,"clean_prefix":"The pilots swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The pilots smile and are tall","sentence_bad":"The pilots smile and is tall","skip":false,"clean_prefix":"The pilots smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The pilots smile and are old","sentence_bad":"The pilots smile and is old","skip":false,"clean_prefix":"The pilots smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The pilots smile and are young","sentence_bad":"The pilots smile and is young","skip":false,"clean_prefix":"The pilots smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The pilots smile and are short","sentence_bad":"The pilots smile and is short","skip":false,"clean_prefix":"The pilots smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The pilots are tall and are old","sentence_bad":"The pilots are tall and is old","skip":false,"clean_prefix":"The pilots are tall and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The pilots are tall and are young","sentence_bad":"The pilots are tall and is young","skip":false,"clean_prefix":"The pilots are tall and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The pilots are tall and are short","sentence_bad":"The pilots are tall and is short","skip":false,"clean_prefix":"The pilots are tall and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The pilots are old and are tall","sentence_bad":"The pilots are old and is tall","skip":false,"clean_prefix":"The pilots are old and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The pilots are old and are young","sentence_bad":"The pilots are old and is young","skip":false,"clean_prefix":"The pilots are old and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The pilots are old and are short","sentence_bad":"The pilots are old and is short","skip":false,"clean_prefix":"The pilots are old and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The pilots are young and are tall","sentence_bad":"The pilots are young and is tall","skip":false,"clean_prefix":"The pilots are young and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The pilots are young and are old","sentence_bad":"The pilots are young and is old","skip":false,"clean_prefix":"The pilots are young and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The pilots are young and are short","sentence_bad":"The pilots are young and is short","skip":false,"clean_prefix":"The pilots are young and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The pilots are short and are tall","sentence_bad":"The pilots are short and is tall","skip":false,"clean_prefix":"The pilots are short and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The pilots are short and are old","sentence_bad":"The pilots are short and is old","skip":false,"clean_prefix":"The pilots are short and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The pilots are short and are young","sentence_bad":"The pilots are short and is young","skip":false,"clean_prefix":"The pilots are short and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The surgeons laugh and are tall","sentence_bad":"The surgeons laugh and is tall","skip":false,"clean_prefix":"The surgeons laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The surgeons laugh and are old","sentence_bad":"The surgeons laugh and is old","skip":false,"clean_prefix":"The surgeons laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The surgeons laugh and are young","sentence_bad":"The surgeons laugh and is young","skip":false,"clean_prefix":"The surgeons laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The surgeons laugh and are short","sentence_bad":"The surgeons laugh and is short","skip":false,"clean_prefix":"The surgeons laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The surgeons swim and are tall","sentence_bad":"The surgeons swim and is tall","skip":false,"clean_prefix":"The surgeons swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The surgeons swim and are old","sentence_bad":"The surgeons swim and is old","skip":false,"clean_prefix":"The surgeons swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The surgeons swim and are young","sentence_bad":"The surgeons swim and is young","skip":false,"clean_prefix":"The surgeons swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The surgeons swim and are short","sentence_bad":"The surgeons swim and is short","skip":false,"clean_prefix":"The surgeons swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The surgeons smile and are tall","sentence_bad":"The surgeons smile and is tall","skip":false,"clean_prefix":"The surgeons smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The surgeons smile and are old","sentence_bad":"The surgeons smile and is old","skip":false,"clean_prefix":"The surgeons smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The surgeons smile and are young","sentence_bad":"The surgeons smile and is young","skip":false,"clean_prefix":"The surgeons smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The surgeons smile and are short","sentence_bad":"The surgeons smile and is short","skip":false,"clean_prefix":"The surgeons smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The surgeons are tall and are old","sentence_bad":"The surgeons are tall and is old","skip":false,"clean_prefix":"The surgeons are tall and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The surgeons are tall and are young","sentence_bad":"The surgeons are tall and is young","skip":false,"clean_prefix":"The surgeons are tall and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The surgeons are tall and are short","sentence_bad":"The surgeons are tall and is short","skip":false,"clean_prefix":"The surgeons are tall and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The surgeons are old and are tall","sentence_bad":"The surgeons are old and is tall","skip":false,"clean_prefix":"The surgeons are old and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The surgeons are old and are young","sentence_bad":"The surgeons are old and is young","skip":false,"clean_prefix":"The surgeons are old and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The surgeons are old and are short","sentence_bad":"The surgeons are old and is short","skip":false,"clean_prefix":"The surgeons are old and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The surgeons are young and are tall","sentence_bad":"The surgeons are young and is tall","skip":false,"clean_prefix":"The surgeons are young and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The surgeons are young and are old","sentence_bad":"The surgeons are young and is old","skip":false,"clean_prefix":"The surgeons are young and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The surgeons are young and are short","sentence_bad":"The surgeons are young and is short","skip":false,"clean_prefix":"The surgeons are young and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The surgeons are short and are tall","sentence_bad":"The surgeons are short and is tall","skip":false,"clean_prefix":"The surgeons are short and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The surgeons are short and are old","sentence_bad":"The surgeons are short and is old","skip":false,"clean_prefix":"The surgeons are short and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The surgeons are short and are young","sentence_bad":"The surgeons are short and is young","skip":false,"clean_prefix":"The surgeons are short and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The farmers laugh and are tall","sentence_bad":"The farmers laugh and is tall","skip":false,"clean_prefix":"The farmers laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The farmers laugh and are old","sentence_bad":"The farmers laugh and is old","skip":false,"clean_prefix":"The farmers laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The farmers laugh and are young","sentence_bad":"The farmers laugh and is young","skip":false,"clean_prefix":"The farmers laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The farmers laugh and are short","sentence_bad":"The farmers laugh and is short","skip":false,"clean_prefix":"The farmers laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The farmers swim and are tall","sentence_bad":"The farmers swim and is tall","skip":false,"clean_prefix":"The farmers swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The farmers swim and are old","sentence_bad":"The farmers swim and is old","skip":false,"clean_prefix":"The farmers swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The farmers swim and are young","sentence_bad":"The farmers swim and is young","skip":false,"clean_prefix":"The farmers swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The farmers swim and are short","sentence_bad":"The farmers swim and is short","skip":false,"clean_prefix":"The farmers swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The farmers smile and are tall","sentence_bad":"The farmers smile and is tall","skip":false,"clean_prefix":"The farmers smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The farmers smile and are old","sentence_bad":"The farmers smile and is old","skip":false,"clean_prefix":"The farmers smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The farmers smile and are young","sentence_bad":"The farmers smile and is young","skip":false,"clean_prefix":"The farmers smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The farmers smile and are short","sentence_bad":"The farmers smile and is short","skip":false,"clean_prefix":"The farmers smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The farmers are tall and are old","sentence_bad":"The farmers are tall and is old","skip":false,"clean_prefix":"The farmers are tall and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The farmers are tall and are young","sentence_bad":"The farmers are tall and is young","skip":false,"clean_prefix":"The farmers are tall and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The farmers are tall and are short","sentence_bad":"The farmers are tall and is short","skip":false,"clean_prefix":"The farmers are tall and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The farmers are old and are tall","sentence_bad":"The farmers are old and is tall","skip":false,"clean_prefix":"The farmers are old and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The farmers are old and are young","sentence_bad":"The farmers are old and is young","skip":false,"clean_prefix":"The farmers are old and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The farmers are old and are short","sentence_bad":"The farmers are old and is short","skip":false,"clean_prefix":"The farmers are old and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The farmers are young and are tall","sentence_bad":"The farmers are young and is tall","skip":false,"clean_prefix":"The farmers are young and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The farmers are young and are old","sentence_bad":"The farmers are young and is old","skip":false,"clean_prefix":"The farmers are young and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The farmers are young and are short","sentence_bad":"The farmers are young and is short","skip":false,"clean_prefix":"The farmers are young and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The farmers are short and are tall","sentence_bad":"The farmers are short and is tall","skip":false,"clean_prefix":"The farmers are short and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The farmers are short and are old","sentence_bad":"The farmers are short and is old","skip":false,"clean_prefix":"The farmers are short and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The farmers are short and are young","sentence_bad":"The farmers are short and is young","skip":false,"clean_prefix":"The farmers are short and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The managers laugh and are tall","sentence_bad":"The managers laugh and is tall","skip":false,"clean_prefix":"The managers laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The managers laugh and are old","sentence_bad":"The managers laugh and is old","skip":false,"clean_prefix":"The managers laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The managers laugh and are young","sentence_bad":"The managers laugh and is young","skip":false,"clean_prefix":"The managers laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The managers laugh and are short","sentence_bad":"The managers laugh and is short","skip":false,"clean_prefix":"The managers laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The managers swim and are tall","sentence_bad":"The managers swim and is tall","skip":false,"clean_prefix":"The managers swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The managers swim and are old","sentence_bad":"The managers swim and is old","skip":false,"clean_prefix":"The managers swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The managers swim and are young","sentence_bad":"The managers swim and is young","skip":false,"clean_prefix":"The managers swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The managers swim and are short","sentence_bad":"The managers swim and is short","skip":false,"clean_prefix":"The managers swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The managers smile and are tall","sentence_bad":"The managers smile and is tall","skip":false,"clean_prefix":"The managers smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The managers smile and are old","sentence_bad":"The managers smile and is old","skip":false,"clean_prefix":"The managers smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The managers smile and are young","sentence_bad":"The managers smile and is young","skip":false,"clean_prefix":"The managers smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The managers smile and are short","sentence_bad":"The managers smile and is short","skip":false,"clean_prefix":"The managers smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The managers are tall and are old","sentence_bad":"The managers are tall and is old","skip":false,"clean_prefix":"The managers are tall and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The managers are tall and are young","sentence_bad":"The managers are tall and is young","skip":false,"clean_prefix":"The managers are tall and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The managers are tall and are short","sentence_bad":"The managers are tall and is short","skip":false,"clean_prefix":"The managers are tall and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The managers are old and are tall","sentence_bad":"The managers are old and is tall","skip":false,"clean_prefix":"The managers are old and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The managers are old and are young","sentence_bad":"The managers are old and is young","skip":false,"clean_prefix":"The managers are old and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The managers are old and are short","sentence_bad":"The managers are old and is short","skip":false,"clean_prefix":"The managers are old and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The managers are young and are tall","sentence_bad":"The managers are young and is tall","skip":false,"clean_prefix":"The managers are young and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The managers are young and are old","sentence_bad":"The managers are young and is old","skip":false,"clean_prefix":"The managers are young and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The managers are young and are short","sentence_bad":"The managers are young and is short","skip":false,"clean_prefix":"The managers are young and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The managers are short and are tall","sentence_bad":"The managers are short and is tall","skip":false,"clean_prefix":"The managers are short and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The managers are short and are old","sentence_bad":"The managers are short and is old","skip":false,"clean_prefix":"The managers are short and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The managers are short and are young","sentence_bad":"The managers are short and is young","skip":false,"clean_prefix":"The managers are short and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The customers laugh and are tall","sentence_bad":"The customers laugh and is tall","skip":false,"clean_prefix":"The customers laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The customers laugh and are old","sentence_bad":"The customers laugh and is old","skip":false,"clean_prefix":"The customers laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The customers laugh and are young","sentence_bad":"The customers laugh and is young","skip":false,"clean_prefix":"The customers laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The customers laugh and are short","sentence_bad":"The customers laugh and is short","skip":false,"clean_prefix":"The customers laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The customers swim and are tall","sentence_bad":"The customers swim and is tall","skip":false,"clean_prefix":"The customers swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The customers swim and are old","sentence_bad":"The customers swim and is old","skip":false,"clean_prefix":"The customers swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The customers swim and are young","sentence_bad":"The customers swim and is young","skip":false,"clean_prefix":"The customers swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The customers swim and are short","sentence_bad":"The customers swim and is short","skip":false,"clean_prefix":"The customers swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The customers smile and are tall","sentence_bad":"The customers smile and is tall","skip":false,"clean_prefix":"The customers smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The customers smile and are old","sentence_bad":"The customers smile and is old","skip":false,"clean_prefix":"The customers smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The customers smile and are young","sentence_bad":"The customers smile and is young","skip":false,"clean_prefix":"The customers smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The customers smile and are short","sentence_bad":"The customers smile and is short","skip":false,"clean_prefix":"The customers smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The customers are tall and are old","sentence_bad":"The customers are tall and is old","skip":false,"clean_prefix":"The customers are tall and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The customers are tall and are young","sentence_bad":"The customers are tall and is young","skip":false,"clean_prefix":"The customers are tall and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The customers are tall and are short","sentence_bad":"The customers are tall and is short","skip":false,"clean_prefix":"The customers are tall and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The customers are old and are tall","sentence_bad":"The customers are old and is tall","skip":false,"clean_prefix":"The customers are old and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The customers are old and are young","sentence_bad":"The customers are old and is young","skip":false,"clean_prefix":"The customers are old and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The customers are old and are short","sentence_bad":"The customers are old and is short","skip":false,"clean_prefix":"The customers are old and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The customers are young and are tall","sentence_bad":"The customers are young and is tall","skip":false,"clean_prefix":"The customers are young and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The customers are young and are old","sentence_bad":"The customers are young and is old","skip":false,"clean_prefix":"The customers are young and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The customers are young and are short","sentence_bad":"The customers are young and is short","skip":false,"clean_prefix":"The customers are young and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The customers are short and are tall","sentence_bad":"The customers are short and is tall","skip":false,"clean_prefix":"The customers are short and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The customers are short and are old","sentence_bad":"The customers are short and is old","skip":false,"clean_prefix":"The customers are short and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The customers are short and are young","sentence_bad":"The customers are short and is young","skip":false,"clean_prefix":"The customers are short and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The officers laugh and are tall","sentence_bad":"The officers laugh and is tall","skip":false,"clean_prefix":"The officers laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The officers laugh and are old","sentence_bad":"The officers laugh and is old","skip":false,"clean_prefix":"The officers laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The officers laugh and are young","sentence_bad":"The officers laugh and is young","skip":false,"clean_prefix":"The officers laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The officers laugh and are short","sentence_bad":"The officers laugh and is short","skip":false,"clean_prefix":"The officers laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The officers swim and are tall","sentence_bad":"The officers swim and is tall","skip":false,"clean_prefix":"The officers swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The officers swim and are old","sentence_bad":"The officers swim and is old","skip":false,"clean_prefix":"The officers swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The officers swim and are young","sentence_bad":"The officers swim and is young","skip":false,"clean_prefix":"The officers swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The officers swim and are short","sentence_bad":"The officers swim and is short","skip":false,"clean_prefix":"The officers swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The officers smile and are tall","sentence_bad":"The officers smile and is tall","skip":false,"clean_prefix":"The officers smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The officers smile and are old","sentence_bad":"The officers smile and is old","skip":false,"clean_prefix":"The officers smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The officers smile and are young","sentence_bad":"The officers smile and is young","skip":false,"clean_prefix":"The officers smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The officers smile and are short","sentence_bad":"The officers smile and is short","skip":false,"clean_prefix":"The officers smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The officers are tall and are old","sentence_bad":"The officers are tall and is old","skip":false,"clean_prefix":"The officers are tall and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The officers are tall and are young","sentence_bad":"The officers are tall and is young","skip":false,"clean_prefix":"The officers are tall and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The officers are tall and are short","sentence_bad":"The officers are tall and is short","skip":false,"clean_prefix":"The officers are tall and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The officers are old and are tall","sentence_bad":"The officers are old and is tall","skip":false,"clean_prefix":"The officers are old and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The officers are old and are young","sentence_bad":"The officers are old and is young","skip":false,"clean_prefix":"The officers are old and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The officers are old and are short","sentence_bad":"The officers are old and is short","skip":false,"clean_prefix":"The officers are old and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The officers are young and are tall","sentence_bad":"The officers are young and is tall","skip":false,"clean_prefix":"The officers are young and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The officers are young and are old","sentence_bad":"The officers are young and is old","skip":false,"clean_prefix":"The officers are young and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The officers are young and are short","sentence_bad":"The officers are young and is short","skip":false,"clean_prefix":"The officers are young and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The officers are short and are tall","sentence_bad":"The officers are short and is tall","skip":false,"clean_prefix":"The officers are short and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The officers are short and are old","sentence_bad":"The officers are short and is old","skip":false,"clean_prefix":"The officers are short and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The officers are short and are young","sentence_bad":"The officers are short and is young","skip":false,"clean_prefix":"The officers are short and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The teachers laugh and are tall","sentence_bad":"The teachers laugh and is tall","skip":false,"clean_prefix":"The teachers laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The teachers laugh and are old","sentence_bad":"The teachers laugh and is old","skip":false,"clean_prefix":"The teachers laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The teachers laugh and are young","sentence_bad":"The teachers laugh and is young","skip":false,"clean_prefix":"The teachers laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The teachers laugh and are short","sentence_bad":"The teachers laugh and is short","skip":false,"clean_prefix":"The teachers laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The teachers swim and are tall","sentence_bad":"The teachers swim and is tall","skip":false,"clean_prefix":"The teachers swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The teachers swim and are old","sentence_bad":"The teachers swim and is old","skip":false,"clean_prefix":"The teachers swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The teachers swim and are young","sentence_bad":"The teachers swim and is young","skip":false,"clean_prefix":"The teachers swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The teachers swim and are short","sentence_bad":"The teachers swim and is short","skip":false,"clean_prefix":"The teachers swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The teachers smile and are tall","sentence_bad":"The teachers smile and is tall","skip":false,"clean_prefix":"The teachers smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The teachers smile and are old","sentence_bad":"The teachers smile and is old","skip":false,"clean_prefix":"The teachers smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The teachers smile and are young","sentence_bad":"The teachers smile and is young","skip":false,"clean_prefix":"The teachers smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The teachers smile and are short","sentence_bad":"The teachers smile and is short","skip":false,"clean_prefix":"The teachers smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The teachers are tall and are old","sentence_bad":"The teachers are tall and is old","skip":false,"clean_prefix":"The teachers are tall and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The teachers are tall and are young","sentence_bad":"The teachers are tall and is young","skip":false,"clean_prefix":"The teachers are tall and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The teachers are tall and are short","sentence_bad":"The teachers are tall and is short","skip":false,"clean_prefix":"The teachers are tall and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The teachers are old and are tall","sentence_bad":"The teachers are old and is tall","skip":false,"clean_prefix":"The teachers are old and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The teachers are old and are young","sentence_bad":"The teachers are old and is young","skip":false,"clean_prefix":"The teachers are old and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The teachers are old and are short","sentence_bad":"The teachers are old and is short","skip":false,"clean_prefix":"The teachers are old and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The teachers are young and are tall","sentence_bad":"The teachers are young and is tall","skip":false,"clean_prefix":"The teachers are young and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The teachers are young and are old","sentence_bad":"The teachers are young and is old","skip":false,"clean_prefix":"The teachers are young and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The teachers are young and are short","sentence_bad":"The teachers are young and is short","skip":false,"clean_prefix":"The teachers are young and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The teachers are short and are tall","sentence_bad":"The teachers are short and is tall","skip":false,"clean_prefix":"The teachers are short and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The teachers are short and are old","sentence_bad":"The teachers are short and is old","skip":false,"clean_prefix":"The teachers are short and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The teachers are short and are young","sentence_bad":"The teachers are short and is young","skip":false,"clean_prefix":"The teachers are short and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The senators laugh and are tall","sentence_bad":"The senators laugh and is tall","skip":false,"clean_prefix":"The senators laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The senators laugh and are old","sentence_bad":"The senators laugh and is old","skip":false,"clean_prefix":"The senators laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The senators laugh and are young","sentence_bad":"The senators laugh and is young","skip":false,"clean_prefix":"The senators laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The senators laugh and are short","sentence_bad":"The senators laugh and is short","skip":false,"clean_prefix":"The senators laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The senators swim and are tall","sentence_bad":"The senators swim and is tall","skip":false,"clean_prefix":"The senators swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The senators swim and are old","sentence_bad":"The senators swim and is old","skip":false,"clean_prefix":"The senators swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The senators swim and are young","sentence_bad":"The senators swim and is young","skip":false,"clean_prefix":"The senators swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The senators swim and are short","sentence_bad":"The senators swim and is short","skip":false,"clean_prefix":"The senators swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The senators smile and are tall","sentence_bad":"The senators smile and is tall","skip":false,"clean_prefix":"The senators smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The senators smile and are old","sentence_bad":"The senators smile and is old","skip":false,"clean_prefix":"The senators smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The senators smile and are young","sentence_bad":"The senators smile and is young","skip":false,"clean_prefix":"The senators smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The senators smile and are short","sentence_bad":"The senators smile and is short","skip":false,"clean_prefix":"The senators smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The senators are tall and are old","sentence_bad":"The senators are tall and is old","skip":false,"clean_prefix":"The senators are tall and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The senators are tall and are young","sentence_bad":"The senators are tall and is young","skip":false,"clean_prefix":"The senators are tall and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The senators are tall and are short","sentence_bad":"The senators are tall and is short","skip":false,"clean_prefix":"The senators are tall and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The senators are old and are tall","sentence_bad":"The senators are old and is tall","skip":false,"clean_prefix":"The senators are old and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The senators are old and are young","sentence_bad":"The senators are old and is young","skip":false,"clean_prefix":"The senators are old and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The senators are old and are short","sentence_bad":"The senators are old and is short","skip":false,"clean_prefix":"The senators are old and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The senators are young and are tall","sentence_bad":"The senators are young and is tall","skip":false,"clean_prefix":"The senators are young and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The senators are young and are old","sentence_bad":"The senators are young and is old","skip":false,"clean_prefix":"The senators are young and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The senators are young and are short","sentence_bad":"The senators are young and is short","skip":false,"clean_prefix":"The senators are young and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The senators are short and are tall","sentence_bad":"The senators are short and is tall","skip":false,"clean_prefix":"The senators are short and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The senators are short and are old","sentence_bad":"The senators are short and is old","skip":false,"clean_prefix":"The senators are short and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The senators are short and are young","sentence_bad":"The senators are short and is young","skip":false,"clean_prefix":"The senators are short and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The consultants laugh and are tall","sentence_bad":"The consultants laugh and is tall","skip":false,"clean_prefix":"The consultants laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The consultants laugh and are old","sentence_bad":"The consultants laugh and is old","skip":false,"clean_prefix":"The consultants laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The consultants laugh and are young","sentence_bad":"The consultants laugh and is young","skip":false,"clean_prefix":"The consultants laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The consultants laugh and are short","sentence_bad":"The consultants laugh and is short","skip":false,"clean_prefix":"The consultants laugh and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The consultants swim and are tall","sentence_bad":"The consultants swim and is tall","skip":false,"clean_prefix":"The consultants swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The consultants swim and are old","sentence_bad":"The consultants swim and is old","skip":false,"clean_prefix":"The consultants swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The consultants swim and are young","sentence_bad":"The consultants swim and is young","skip":false,"clean_prefix":"The consultants swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The consultants swim and are short","sentence_bad":"The consultants swim and is short","skip":false,"clean_prefix":"The consultants swim and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The consultants smile and are tall","sentence_bad":"The consultants smile and is tall","skip":false,"clean_prefix":"The consultants smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The consultants smile and are old","sentence_bad":"The consultants smile and is old","skip":false,"clean_prefix":"The consultants smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The consultants smile and are young","sentence_bad":"The consultants smile and is young","skip":false,"clean_prefix":"The consultants smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The consultants smile and are short","sentence_bad":"The consultants smile and is short","skip":false,"clean_prefix":"The consultants smile and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The consultants are tall and are old","sentence_bad":"The consultants are tall and is old","skip":false,"clean_prefix":"The consultants are tall and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The consultants are tall and are young","sentence_bad":"The consultants are tall and is young","skip":false,"clean_prefix":"The consultants are tall and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The consultants are tall and are short","sentence_bad":"The consultants are tall and is short","skip":false,"clean_prefix":"The consultants are tall and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The consultants are old and are tall","sentence_bad":"The consultants are old and is tall","skip":false,"clean_prefix":"The consultants are old and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The consultants are old and are young","sentence_bad":"The consultants are old and is young","skip":false,"clean_prefix":"The consultants are old and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The consultants are old and are short","sentence_bad":"The consultants are old and is short","skip":false,"clean_prefix":"The consultants are old and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The consultants are young and are tall","sentence_bad":"The consultants are young and is tall","skip":false,"clean_prefix":"The consultants are young and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The consultants are young and are old","sentence_bad":"The consultants are young and is old","skip":false,"clean_prefix":"The consultants are young and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The consultants are young and are short","sentence_bad":"The consultants are young and is short","skip":false,"clean_prefix":"The consultants are young and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The consultants are short and are tall","sentence_bad":"The consultants are short and is tall","skip":false,"clean_prefix":"The consultants are short and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The consultants are short and are old","sentence_bad":"The consultants are short and is old","skip":false,"clean_prefix":"The consultants are short and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The consultants are short and are young","sentence_bad":"The consultants are short and is young","skip":false,"clean_prefix":"The consultants are short and","clean_answer":" are","patch_answer":" is"}
+{"sentence_good":"The author laughs and is tall","sentence_bad":"The author laughs and are tall","skip":false,"clean_prefix":"The author laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The author laughs and is old","sentence_bad":"The author laughs and are old","skip":false,"clean_prefix":"The author laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The author laughs and is young","sentence_bad":"The author laughs and are young","skip":false,"clean_prefix":"The author laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The author laughs and is short","sentence_bad":"The author laughs and are short","skip":false,"clean_prefix":"The author laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The author swims and is tall","sentence_bad":"The author swims and are tall","skip":false,"clean_prefix":"The author swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The author swims and is old","sentence_bad":"The author swims and are old","skip":false,"clean_prefix":"The author swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The author swims and is young","sentence_bad":"The author swims and are young","skip":false,"clean_prefix":"The author swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The author swims and is short","sentence_bad":"The author swims and are short","skip":false,"clean_prefix":"The author swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The author smiles and is tall","sentence_bad":"The author smiles and are tall","skip":false,"clean_prefix":"The author smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The author smiles and is old","sentence_bad":"The author smiles and are old","skip":false,"clean_prefix":"The author smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The author smiles and is young","sentence_bad":"The author smiles and are young","skip":false,"clean_prefix":"The author smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The author smiles and is short","sentence_bad":"The author smiles and are short","skip":false,"clean_prefix":"The author smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The author is tall and is old","sentence_bad":"The author is tall and are old","skip":false,"clean_prefix":"The author is tall and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The author is tall and is young","sentence_bad":"The author is tall and are young","skip":false,"clean_prefix":"The author is tall and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The author is tall and is short","sentence_bad":"The author is tall and are short","skip":false,"clean_prefix":"The author is tall and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The author is old and is tall","sentence_bad":"The author is old and are tall","skip":false,"clean_prefix":"The author is old and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The author is old and is young","sentence_bad":"The author is old and are young","skip":false,"clean_prefix":"The author is old and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The author is old and is short","sentence_bad":"The author is old and are short","skip":false,"clean_prefix":"The author is old and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The author is young and is tall","sentence_bad":"The author is young and are tall","skip":false,"clean_prefix":"The author is young and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The author is young and is old","sentence_bad":"The author is young and are old","skip":false,"clean_prefix":"The author is young and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The author is young and is short","sentence_bad":"The author is young and are short","skip":false,"clean_prefix":"The author is young and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The author is short and is tall","sentence_bad":"The author is short and are tall","skip":false,"clean_prefix":"The author is short and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The author is short and is old","sentence_bad":"The author is short and are old","skip":false,"clean_prefix":"The author is short and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The author is short and is young","sentence_bad":"The author is short and are young","skip":false,"clean_prefix":"The author is short and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The pilot laughs and is tall","sentence_bad":"The pilot laughs and are tall","skip":false,"clean_prefix":"The pilot laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The pilot laughs and is old","sentence_bad":"The pilot laughs and are old","skip":false,"clean_prefix":"The pilot laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The pilot laughs and is young","sentence_bad":"The pilot laughs and are young","skip":false,"clean_prefix":"The pilot laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The pilot laughs and is short","sentence_bad":"The pilot laughs and are short","skip":false,"clean_prefix":"The pilot laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The pilot swims and is tall","sentence_bad":"The pilot swims and are tall","skip":false,"clean_prefix":"The pilot swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The pilot swims and is old","sentence_bad":"The pilot swims and are old","skip":false,"clean_prefix":"The pilot swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The pilot swims and is young","sentence_bad":"The pilot swims and are young","skip":false,"clean_prefix":"The pilot swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The pilot swims and is short","sentence_bad":"The pilot swims and are short","skip":false,"clean_prefix":"The pilot swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The pilot smiles and is tall","sentence_bad":"The pilot smiles and are tall","skip":false,"clean_prefix":"The pilot smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The pilot smiles and is old","sentence_bad":"The pilot smiles and are old","skip":false,"clean_prefix":"The pilot smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The pilot smiles and is young","sentence_bad":"The pilot smiles and are young","skip":false,"clean_prefix":"The pilot smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The pilot smiles and is short","sentence_bad":"The pilot smiles and are short","skip":false,"clean_prefix":"The pilot smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The pilot is tall and is old","sentence_bad":"The pilot is tall and are old","skip":false,"clean_prefix":"The pilot is tall and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The pilot is tall and is young","sentence_bad":"The pilot is tall and are young","skip":false,"clean_prefix":"The pilot is tall and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The pilot is tall and is short","sentence_bad":"The pilot is tall and are short","skip":false,"clean_prefix":"The pilot is tall and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The pilot is old and is tall","sentence_bad":"The pilot is old and are tall","skip":false,"clean_prefix":"The pilot is old and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The pilot is old and is young","sentence_bad":"The pilot is old and are young","skip":false,"clean_prefix":"The pilot is old and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The pilot is old and is short","sentence_bad":"The pilot is old and are short","skip":false,"clean_prefix":"The pilot is old and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The pilot is young and is tall","sentence_bad":"The pilot is young and are tall","skip":false,"clean_prefix":"The pilot is young and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The pilot is young and is old","sentence_bad":"The pilot is young and are old","skip":false,"clean_prefix":"The pilot is young and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The pilot is young and is short","sentence_bad":"The pilot is young and are short","skip":false,"clean_prefix":"The pilot is young and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The pilot is short and is tall","sentence_bad":"The pilot is short and are tall","skip":false,"clean_prefix":"The pilot is short and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The pilot is short and is old","sentence_bad":"The pilot is short and are old","skip":false,"clean_prefix":"The pilot is short and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The pilot is short and is young","sentence_bad":"The pilot is short and are young","skip":false,"clean_prefix":"The pilot is short and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The surgeon laughs and is tall","sentence_bad":"The surgeon laughs and are tall","skip":false,"clean_prefix":"The surgeon laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The surgeon laughs and is old","sentence_bad":"The surgeon laughs and are old","skip":false,"clean_prefix":"The surgeon laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The surgeon laughs and is young","sentence_bad":"The surgeon laughs and are young","skip":false,"clean_prefix":"The surgeon laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The surgeon laughs and is short","sentence_bad":"The surgeon laughs and are short","skip":false,"clean_prefix":"The surgeon laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The surgeon swims and is tall","sentence_bad":"The surgeon swims and are tall","skip":false,"clean_prefix":"The surgeon swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The surgeon swims and is old","sentence_bad":"The surgeon swims and are old","skip":false,"clean_prefix":"The surgeon swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The surgeon swims and is young","sentence_bad":"The surgeon swims and are young","skip":false,"clean_prefix":"The surgeon swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The surgeon swims and is short","sentence_bad":"The surgeon swims and are short","skip":false,"clean_prefix":"The surgeon swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The surgeon smiles and is tall","sentence_bad":"The surgeon smiles and are tall","skip":false,"clean_prefix":"The surgeon smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The surgeon smiles and is old","sentence_bad":"The surgeon smiles and are old","skip":false,"clean_prefix":"The surgeon smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The surgeon smiles and is young","sentence_bad":"The surgeon smiles and are young","skip":false,"clean_prefix":"The surgeon smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The surgeon smiles and is short","sentence_bad":"The surgeon smiles and are short","skip":false,"clean_prefix":"The surgeon smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The surgeon is tall and is old","sentence_bad":"The surgeon is tall and are old","skip":false,"clean_prefix":"The surgeon is tall and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The surgeon is tall and is young","sentence_bad":"The surgeon is tall and are young","skip":false,"clean_prefix":"The surgeon is tall and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The surgeon is tall and is short","sentence_bad":"The surgeon is tall and are short","skip":false,"clean_prefix":"The surgeon is tall and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The surgeon is old and is tall","sentence_bad":"The surgeon is old and are tall","skip":false,"clean_prefix":"The surgeon is old and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The surgeon is old and is young","sentence_bad":"The surgeon is old and are young","skip":false,"clean_prefix":"The surgeon is old and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The surgeon is old and is short","sentence_bad":"The surgeon is old and are short","skip":false,"clean_prefix":"The surgeon is old and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The surgeon is young and is tall","sentence_bad":"The surgeon is young and are tall","skip":false,"clean_prefix":"The surgeon is young and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The surgeon is young and is old","sentence_bad":"The surgeon is young and are old","skip":false,"clean_prefix":"The surgeon is young and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The surgeon is young and is short","sentence_bad":"The surgeon is young and are short","skip":false,"clean_prefix":"The surgeon is young and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The surgeon is short and is tall","sentence_bad":"The surgeon is short and are tall","skip":false,"clean_prefix":"The surgeon is short and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The surgeon is short and is old","sentence_bad":"The surgeon is short and are old","skip":false,"clean_prefix":"The surgeon is short and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The surgeon is short and is young","sentence_bad":"The surgeon is short and are young","skip":false,"clean_prefix":"The surgeon is short and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The farmer laughs and is tall","sentence_bad":"The farmer laughs and are tall","skip":false,"clean_prefix":"The farmer laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The farmer laughs and is old","sentence_bad":"The farmer laughs and are old","skip":false,"clean_prefix":"The farmer laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The farmer laughs and is young","sentence_bad":"The farmer laughs and are young","skip":false,"clean_prefix":"The farmer laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The farmer laughs and is short","sentence_bad":"The farmer laughs and are short","skip":false,"clean_prefix":"The farmer laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The farmer swims and is tall","sentence_bad":"The farmer swims and are tall","skip":false,"clean_prefix":"The farmer swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The farmer swims and is old","sentence_bad":"The farmer swims and are old","skip":false,"clean_prefix":"The farmer swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The farmer swims and is young","sentence_bad":"The farmer swims and are young","skip":false,"clean_prefix":"The farmer swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The farmer swims and is short","sentence_bad":"The farmer swims and are short","skip":false,"clean_prefix":"The farmer swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The farmer smiles and is tall","sentence_bad":"The farmer smiles and are tall","skip":false,"clean_prefix":"The farmer smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The farmer smiles and is old","sentence_bad":"The farmer smiles and are old","skip":false,"clean_prefix":"The farmer smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The farmer smiles and is young","sentence_bad":"The farmer smiles and are young","skip":false,"clean_prefix":"The farmer smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The farmer smiles and is short","sentence_bad":"The farmer smiles and are short","skip":false,"clean_prefix":"The farmer smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The farmer is tall and is old","sentence_bad":"The farmer is tall and are old","skip":false,"clean_prefix":"The farmer is tall and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The farmer is tall and is young","sentence_bad":"The farmer is tall and are young","skip":false,"clean_prefix":"The farmer is tall and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The farmer is tall and is short","sentence_bad":"The farmer is tall and are short","skip":false,"clean_prefix":"The farmer is tall and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The farmer is old and is tall","sentence_bad":"The farmer is old and are tall","skip":false,"clean_prefix":"The farmer is old and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The farmer is old and is young","sentence_bad":"The farmer is old and are young","skip":false,"clean_prefix":"The farmer is old and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The farmer is old and is short","sentence_bad":"The farmer is old and are short","skip":false,"clean_prefix":"The farmer is old and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The farmer is young and is tall","sentence_bad":"The farmer is young and are tall","skip":false,"clean_prefix":"The farmer is young and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The farmer is young and is old","sentence_bad":"The farmer is young and are old","skip":false,"clean_prefix":"The farmer is young and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The farmer is young and is short","sentence_bad":"The farmer is young and are short","skip":false,"clean_prefix":"The farmer is young and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The farmer is short and is tall","sentence_bad":"The farmer is short and are tall","skip":false,"clean_prefix":"The farmer is short and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The farmer is short and is old","sentence_bad":"The farmer is short and are old","skip":false,"clean_prefix":"The farmer is short and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The farmer is short and is young","sentence_bad":"The farmer is short and are young","skip":false,"clean_prefix":"The farmer is short and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The manager laughs and is tall","sentence_bad":"The manager laughs and are tall","skip":false,"clean_prefix":"The manager laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The manager laughs and is old","sentence_bad":"The manager laughs and are old","skip":false,"clean_prefix":"The manager laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The manager laughs and is young","sentence_bad":"The manager laughs and are young","skip":false,"clean_prefix":"The manager laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The manager laughs and is short","sentence_bad":"The manager laughs and are short","skip":false,"clean_prefix":"The manager laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The manager swims and is tall","sentence_bad":"The manager swims and are tall","skip":false,"clean_prefix":"The manager swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The manager swims and is old","sentence_bad":"The manager swims and are old","skip":false,"clean_prefix":"The manager swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The manager swims and is young","sentence_bad":"The manager swims and are young","skip":false,"clean_prefix":"The manager swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The manager swims and is short","sentence_bad":"The manager swims and are short","skip":false,"clean_prefix":"The manager swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The manager smiles and is tall","sentence_bad":"The manager smiles and are tall","skip":false,"clean_prefix":"The manager smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The manager smiles and is old","sentence_bad":"The manager smiles and are old","skip":false,"clean_prefix":"The manager smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The manager smiles and is young","sentence_bad":"The manager smiles and are young","skip":false,"clean_prefix":"The manager smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The manager smiles and is short","sentence_bad":"The manager smiles and are short","skip":false,"clean_prefix":"The manager smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The manager is tall and is old","sentence_bad":"The manager is tall and are old","skip":false,"clean_prefix":"The manager is tall and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The manager is tall and is young","sentence_bad":"The manager is tall and are young","skip":false,"clean_prefix":"The manager is tall and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The manager is tall and is short","sentence_bad":"The manager is tall and are short","skip":false,"clean_prefix":"The manager is tall and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The manager is old and is tall","sentence_bad":"The manager is old and are tall","skip":false,"clean_prefix":"The manager is old and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The manager is old and is young","sentence_bad":"The manager is old and are young","skip":false,"clean_prefix":"The manager is old and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The manager is old and is short","sentence_bad":"The manager is old and are short","skip":false,"clean_prefix":"The manager is old and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The manager is young and is tall","sentence_bad":"The manager is young and are tall","skip":false,"clean_prefix":"The manager is young and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The manager is young and is old","sentence_bad":"The manager is young and are old","skip":false,"clean_prefix":"The manager is young and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The manager is young and is short","sentence_bad":"The manager is young and are short","skip":false,"clean_prefix":"The manager is young and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The manager is short and is tall","sentence_bad":"The manager is short and are tall","skip":false,"clean_prefix":"The manager is short and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The manager is short and is old","sentence_bad":"The manager is short and are old","skip":false,"clean_prefix":"The manager is short and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The manager is short and is young","sentence_bad":"The manager is short and are young","skip":false,"clean_prefix":"The manager is short and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The customer laughs and is tall","sentence_bad":"The customer laughs and are tall","skip":false,"clean_prefix":"The customer laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The customer laughs and is old","sentence_bad":"The customer laughs and are old","skip":false,"clean_prefix":"The customer laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The customer laughs and is young","sentence_bad":"The customer laughs and are young","skip":false,"clean_prefix":"The customer laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The customer laughs and is short","sentence_bad":"The customer laughs and are short","skip":false,"clean_prefix":"The customer laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The customer swims and is tall","sentence_bad":"The customer swims and are tall","skip":false,"clean_prefix":"The customer swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The customer swims and is old","sentence_bad":"The customer swims and are old","skip":false,"clean_prefix":"The customer swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The customer swims and is young","sentence_bad":"The customer swims and are young","skip":false,"clean_prefix":"The customer swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The customer swims and is short","sentence_bad":"The customer swims and are short","skip":false,"clean_prefix":"The customer swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The customer smiles and is tall","sentence_bad":"The customer smiles and are tall","skip":false,"clean_prefix":"The customer smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The customer smiles and is old","sentence_bad":"The customer smiles and are old","skip":false,"clean_prefix":"The customer smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The customer smiles and is young","sentence_bad":"The customer smiles and are young","skip":false,"clean_prefix":"The customer smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The customer smiles and is short","sentence_bad":"The customer smiles and are short","skip":false,"clean_prefix":"The customer smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The customer is tall and is old","sentence_bad":"The customer is tall and are old","skip":false,"clean_prefix":"The customer is tall and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The customer is tall and is young","sentence_bad":"The customer is tall and are young","skip":false,"clean_prefix":"The customer is tall and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The customer is tall and is short","sentence_bad":"The customer is tall and are short","skip":false,"clean_prefix":"The customer is tall and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The customer is old and is tall","sentence_bad":"The customer is old and are tall","skip":false,"clean_prefix":"The customer is old and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The customer is old and is young","sentence_bad":"The customer is old and are young","skip":false,"clean_prefix":"The customer is old and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The customer is old and is short","sentence_bad":"The customer is old and are short","skip":false,"clean_prefix":"The customer is old and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The customer is young and is tall","sentence_bad":"The customer is young and are tall","skip":false,"clean_prefix":"The customer is young and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The customer is young and is old","sentence_bad":"The customer is young and are old","skip":false,"clean_prefix":"The customer is young and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The customer is young and is short","sentence_bad":"The customer is young and are short","skip":false,"clean_prefix":"The customer is young and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The customer is short and is tall","sentence_bad":"The customer is short and are tall","skip":false,"clean_prefix":"The customer is short and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The customer is short and is old","sentence_bad":"The customer is short and are old","skip":false,"clean_prefix":"The customer is short and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The customer is short and is young","sentence_bad":"The customer is short and are young","skip":false,"clean_prefix":"The customer is short and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The officer laughs and is tall","sentence_bad":"The officer laughs and are tall","skip":false,"clean_prefix":"The officer laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The officer laughs and is old","sentence_bad":"The officer laughs and are old","skip":false,"clean_prefix":"The officer laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The officer laughs and is young","sentence_bad":"The officer laughs and are young","skip":false,"clean_prefix":"The officer laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The officer laughs and is short","sentence_bad":"The officer laughs and are short","skip":false,"clean_prefix":"The officer laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The officer swims and is tall","sentence_bad":"The officer swims and are tall","skip":false,"clean_prefix":"The officer swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The officer swims and is old","sentence_bad":"The officer swims and are old","skip":false,"clean_prefix":"The officer swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The officer swims and is young","sentence_bad":"The officer swims and are young","skip":false,"clean_prefix":"The officer swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The officer swims and is short","sentence_bad":"The officer swims and are short","skip":false,"clean_prefix":"The officer swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The officer smiles and is tall","sentence_bad":"The officer smiles and are tall","skip":false,"clean_prefix":"The officer smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The officer smiles and is old","sentence_bad":"The officer smiles and are old","skip":false,"clean_prefix":"The officer smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The officer smiles and is young","sentence_bad":"The officer smiles and are young","skip":false,"clean_prefix":"The officer smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The officer smiles and is short","sentence_bad":"The officer smiles and are short","skip":false,"clean_prefix":"The officer smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The officer is tall and is old","sentence_bad":"The officer is tall and are old","skip":false,"clean_prefix":"The officer is tall and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The officer is tall and is young","sentence_bad":"The officer is tall and are young","skip":false,"clean_prefix":"The officer is tall and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The officer is tall and is short","sentence_bad":"The officer is tall and are short","skip":false,"clean_prefix":"The officer is tall and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The officer is old and is tall","sentence_bad":"The officer is old and are tall","skip":false,"clean_prefix":"The officer is old and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The officer is old and is young","sentence_bad":"The officer is old and are young","skip":false,"clean_prefix":"The officer is old and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The officer is old and is short","sentence_bad":"The officer is old and are short","skip":false,"clean_prefix":"The officer is old and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The officer is young and is tall","sentence_bad":"The officer is young and are tall","skip":false,"clean_prefix":"The officer is young and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The officer is young and is old","sentence_bad":"The officer is young and are old","skip":false,"clean_prefix":"The officer is young and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The officer is young and is short","sentence_bad":"The officer is young and are short","skip":false,"clean_prefix":"The officer is young and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The officer is short and is tall","sentence_bad":"The officer is short and are tall","skip":false,"clean_prefix":"The officer is short and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The officer is short and is old","sentence_bad":"The officer is short and are old","skip":false,"clean_prefix":"The officer is short and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The officer is short and is young","sentence_bad":"The officer is short and are young","skip":false,"clean_prefix":"The officer is short and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The teacher laughs and is tall","sentence_bad":"The teacher laughs and are tall","skip":false,"clean_prefix":"The teacher laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The teacher laughs and is old","sentence_bad":"The teacher laughs and are old","skip":false,"clean_prefix":"The teacher laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The teacher laughs and is young","sentence_bad":"The teacher laughs and are young","skip":false,"clean_prefix":"The teacher laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The teacher laughs and is short","sentence_bad":"The teacher laughs and are short","skip":false,"clean_prefix":"The teacher laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The teacher swims and is tall","sentence_bad":"The teacher swims and are tall","skip":false,"clean_prefix":"The teacher swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The teacher swims and is old","sentence_bad":"The teacher swims and are old","skip":false,"clean_prefix":"The teacher swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The teacher swims and is young","sentence_bad":"The teacher swims and are young","skip":false,"clean_prefix":"The teacher swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The teacher swims and is short","sentence_bad":"The teacher swims and are short","skip":false,"clean_prefix":"The teacher swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The teacher smiles and is tall","sentence_bad":"The teacher smiles and are tall","skip":false,"clean_prefix":"The teacher smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The teacher smiles and is old","sentence_bad":"The teacher smiles and are old","skip":false,"clean_prefix":"The teacher smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The teacher smiles and is young","sentence_bad":"The teacher smiles and are young","skip":false,"clean_prefix":"The teacher smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The teacher smiles and is short","sentence_bad":"The teacher smiles and are short","skip":false,"clean_prefix":"The teacher smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The teacher is tall and is old","sentence_bad":"The teacher is tall and are old","skip":false,"clean_prefix":"The teacher is tall and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The teacher is tall and is young","sentence_bad":"The teacher is tall and are young","skip":false,"clean_prefix":"The teacher is tall and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The teacher is tall and is short","sentence_bad":"The teacher is tall and are short","skip":false,"clean_prefix":"The teacher is tall and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The teacher is old and is tall","sentence_bad":"The teacher is old and are tall","skip":false,"clean_prefix":"The teacher is old and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The teacher is old and is young","sentence_bad":"The teacher is old and are young","skip":false,"clean_prefix":"The teacher is old and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The teacher is old and is short","sentence_bad":"The teacher is old and are short","skip":false,"clean_prefix":"The teacher is old and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The teacher is young and is tall","sentence_bad":"The teacher is young and are tall","skip":false,"clean_prefix":"The teacher is young and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The teacher is young and is old","sentence_bad":"The teacher is young and are old","skip":false,"clean_prefix":"The teacher is young and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The teacher is young and is short","sentence_bad":"The teacher is young and are short","skip":false,"clean_prefix":"The teacher is young and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The teacher is short and is tall","sentence_bad":"The teacher is short and are tall","skip":false,"clean_prefix":"The teacher is short and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The teacher is short and is old","sentence_bad":"The teacher is short and are old","skip":false,"clean_prefix":"The teacher is short and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The teacher is short and is young","sentence_bad":"The teacher is short and are young","skip":false,"clean_prefix":"The teacher is short and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The senator laughs and is tall","sentence_bad":"The senator laughs and are tall","skip":false,"clean_prefix":"The senator laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The senator laughs and is old","sentence_bad":"The senator laughs and are old","skip":false,"clean_prefix":"The senator laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The senator laughs and is young","sentence_bad":"The senator laughs and are young","skip":false,"clean_prefix":"The senator laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The senator laughs and is short","sentence_bad":"The senator laughs and are short","skip":false,"clean_prefix":"The senator laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The senator swims and is tall","sentence_bad":"The senator swims and are tall","skip":false,"clean_prefix":"The senator swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The senator swims and is old","sentence_bad":"The senator swims and are old","skip":false,"clean_prefix":"The senator swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The senator swims and is young","sentence_bad":"The senator swims and are young","skip":false,"clean_prefix":"The senator swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The senator swims and is short","sentence_bad":"The senator swims and are short","skip":false,"clean_prefix":"The senator swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The senator smiles and is tall","sentence_bad":"The senator smiles and are tall","skip":false,"clean_prefix":"The senator smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The senator smiles and is old","sentence_bad":"The senator smiles and are old","skip":false,"clean_prefix":"The senator smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The senator smiles and is young","sentence_bad":"The senator smiles and are young","skip":false,"clean_prefix":"The senator smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The senator smiles and is short","sentence_bad":"The senator smiles and are short","skip":false,"clean_prefix":"The senator smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The senator is tall and is old","sentence_bad":"The senator is tall and are old","skip":false,"clean_prefix":"The senator is tall and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The senator is tall and is young","sentence_bad":"The senator is tall and are young","skip":false,"clean_prefix":"The senator is tall and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The senator is tall and is short","sentence_bad":"The senator is tall and are short","skip":false,"clean_prefix":"The senator is tall and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The senator is old and is tall","sentence_bad":"The senator is old and are tall","skip":false,"clean_prefix":"The senator is old and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The senator is old and is young","sentence_bad":"The senator is old and are young","skip":false,"clean_prefix":"The senator is old and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The senator is old and is short","sentence_bad":"The senator is old and are short","skip":false,"clean_prefix":"The senator is old and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The senator is young and is tall","sentence_bad":"The senator is young and are tall","skip":false,"clean_prefix":"The senator is young and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The senator is young and is old","sentence_bad":"The senator is young and are old","skip":false,"clean_prefix":"The senator is young and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The senator is young and is short","sentence_bad":"The senator is young and are short","skip":false,"clean_prefix":"The senator is young and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The senator is short and is tall","sentence_bad":"The senator is short and are tall","skip":false,"clean_prefix":"The senator is short and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The senator is short and is old","sentence_bad":"The senator is short and are old","skip":false,"clean_prefix":"The senator is short and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The senator is short and is young","sentence_bad":"The senator is short and are young","skip":false,"clean_prefix":"The senator is short and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The consultant laughs and is tall","sentence_bad":"The consultant laughs and are tall","skip":false,"clean_prefix":"The consultant laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The consultant laughs and is old","sentence_bad":"The consultant laughs and are old","skip":false,"clean_prefix":"The consultant laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The consultant laughs and is young","sentence_bad":"The consultant laughs and are young","skip":false,"clean_prefix":"The consultant laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The consultant laughs and is short","sentence_bad":"The consultant laughs and are short","skip":false,"clean_prefix":"The consultant laughs and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The consultant swims and is tall","sentence_bad":"The consultant swims and are tall","skip":false,"clean_prefix":"The consultant swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The consultant swims and is old","sentence_bad":"The consultant swims and are old","skip":false,"clean_prefix":"The consultant swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The consultant swims and is young","sentence_bad":"The consultant swims and are young","skip":false,"clean_prefix":"The consultant swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The consultant swims and is short","sentence_bad":"The consultant swims and are short","skip":false,"clean_prefix":"The consultant swims and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The consultant smiles and is tall","sentence_bad":"The consultant smiles and are tall","skip":false,"clean_prefix":"The consultant smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The consultant smiles and is old","sentence_bad":"The consultant smiles and are old","skip":false,"clean_prefix":"The consultant smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The consultant smiles and is young","sentence_bad":"The consultant smiles and are young","skip":false,"clean_prefix":"The consultant smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The consultant smiles and is short","sentence_bad":"The consultant smiles and are short","skip":false,"clean_prefix":"The consultant smiles and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The consultant is tall and is old","sentence_bad":"The consultant is tall and are old","skip":false,"clean_prefix":"The consultant is tall and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The consultant is tall and is young","sentence_bad":"The consultant is tall and are young","skip":false,"clean_prefix":"The consultant is tall and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The consultant is tall and is short","sentence_bad":"The consultant is tall and are short","skip":false,"clean_prefix":"The consultant is tall and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The consultant is old and is tall","sentence_bad":"The consultant is old and are tall","skip":false,"clean_prefix":"The consultant is old and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The consultant is old and is young","sentence_bad":"The consultant is old and are young","skip":false,"clean_prefix":"The consultant is old and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The consultant is old and is short","sentence_bad":"The consultant is old and are short","skip":false,"clean_prefix":"The consultant is old and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The consultant is young and is tall","sentence_bad":"The consultant is young and are tall","skip":false,"clean_prefix":"The consultant is young and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The consultant is young and is old","sentence_bad":"The consultant is young and are old","skip":false,"clean_prefix":"The consultant is young and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The consultant is young and is short","sentence_bad":"The consultant is young and are short","skip":false,"clean_prefix":"The consultant is young and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The consultant is short and is tall","sentence_bad":"The consultant is short and are tall","skip":false,"clean_prefix":"The consultant is short and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The consultant is short and is old","sentence_bad":"The consultant is short and are old","skip":false,"clean_prefix":"The consultant is short and","clean_answer":" is","patch_answer":" are"}
+{"sentence_good":"The consultant is short and is young","sentence_bad":"The consultant is short and are young","skip":false,"clean_prefix":"The consultant is short and","clean_answer":" is","patch_answer":" are"}

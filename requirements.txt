@@ -1,0 +1,19 @@
+datasets==2.21.0
+einops==0.7.0
+huggingface_hub==0.30.2
+ipython==8.12.3
+jaxtyping==0.2.34
+numpy==1.26.4
+pandas==2.2.3
+plotly==5.24.1
+torch==2.5.1
+tqdm==4.67.0
+transformer_lens==2.8.1
+wandb==0.18.6
+ipykernel==6.29.5
+nbdime==4.0.2
+sae-lens==5.2.0
+nnsight==0.4.6
+kaleido==0.2.1
+seaborn==0.13.2
+lm-eval @ git+https://github.com/bayazitdeniz/lm-evaluation-harness.git@feat-tok-fix

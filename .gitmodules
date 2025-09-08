@@ -1,0 +1,4 @@
+[submodule "sae_vis"]
+	path = sae_vis
+	url = git@github.com:bayazitdeniz/sae_vis.git
+	branch = crosscoder-vis

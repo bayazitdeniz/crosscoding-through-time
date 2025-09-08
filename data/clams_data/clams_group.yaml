@@ -1,0 +1,16 @@
+group: clams
+task:
+- en_long_vp_coord
+- en_obj_rel_across_anim
+- en_obj_rel_within_anim
+- en_prep_anim
+- en_simple_agrmt
+- en_subj_rel
+- en_vp_coord
+- fr_long_vp_coord
+- fr_obj_rel_across_anim
+- fr_obj_rel_within_anim
+- fr_prep_anim
+- fr_simple_agrmt
+- fr_subj_rel
+- fr_vp_coord

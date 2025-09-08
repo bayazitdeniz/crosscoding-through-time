@@ -1,0 +1,11 @@
+dataset_path: json
+output_type: multiple_choice
+validation_split: validation
+doc_to_text: '""'
+doc_to_target: 0
+doc_to_choice: '{{[sentence_good, sentence_bad]}}'
+metric_list:
+- metric: acc
+  aggregation: mean
+  higher_is_better: true
+num_fewshot: 0

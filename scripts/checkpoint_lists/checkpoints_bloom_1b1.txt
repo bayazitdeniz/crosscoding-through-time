@@ -1,0 +1,9 @@
+global_step1000
+global_step10000
+global_step100000
+global_step200000
+global_step300000
+global_step400000
+global_step500000
+global_step600000
+main
