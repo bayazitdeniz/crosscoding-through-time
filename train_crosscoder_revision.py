@@ -179,7 +179,7 @@ def main():
         "dec_init_norm": args.dec_init_norm,
         "hook_point": args.hook_point,
         "wandb_project": "crosscoding-through-time",
-        "wandb_entity": "epfl-nlp-bayazit",
+        "wandb_entity": "your-wandb-entity",
         "wandb_name": args.wandb_name,
         "n_models": args.n_models,
         "model_type": args.model_type,

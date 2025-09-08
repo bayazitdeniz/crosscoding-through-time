@@ -13,7 +13,7 @@ for revision in $all_steps; do
         --model hf \
         --model_args pretrained=${model_name},dtype=float16,revision=${revision},tokenizer=${tokenizer} \
         --tasks $task \
-        --include_path "/mnt/u14157_ic_nlp_001_files_nfs/nlpdata1/home/bayazit/model-diff/clams_data" \
+        --include_path "./data/clams_data" \
         --device cuda:0 \
         --batch_size 8 \
         --num_fewshot 0 \

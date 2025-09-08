@@ -2,4 +2,4 @@ task: fr_prep_anim
 include: _template.yaml
 dataset_kwargs:
   data_files:
-    validation: /mnt/u14157_ic_nlp_001_files_nfs/nlpdata1/home/bayazit/model-diff/clams_data/fr_prep_anim.jsonl
+    validation: ./data/clams_data/fr_prep_anim.jsonl

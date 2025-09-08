@@ -2,4 +2,4 @@ task: fr_long_vp_coord
 include: _template.yaml
 dataset_kwargs:
   data_files:
-    validation: /mnt/u14157_ic_nlp_001_files_nfs/nlpdata1/home/bayazit/model-diff/clams_data/fr_long_vp_coord.jsonl
+    validation: ./data/clams_data/fr_long_vp_coord.jsonl
