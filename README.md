@@ -64,12 +64,13 @@ Due to its small size, some of the data is directly uploaded to the repository i
 python scripts/download_lmodeling_data.py
 ```
 
-You can also download our already trained crosscoders with the following scripts:
+You can also download our pretrained crosscoders and the saved results used for the paper's figures and tables from the repository root:
 
 ```shell
-# TODO: script not complete
-bash scripts/download_crosscoders.sh
+python scripts/download_crosscoders.py --include-paper-results
 ```
+
+For crosscoder checkpoints only, don't pass any flag. For results only, pass `--results-only` instead of `--include-paper-results`. Weights and configs are saved to `workspace/logs/checkpoints/version_<ID>/`; results are extracted into their expected paths under `workspace/`.
 
 ## Repository Structure
 

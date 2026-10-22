@@ -370,6 +370,7 @@ def aggregate_eval_res(
     df["token_name"] = df.apply(lambda row: get_tokens(row["model_type"]), axis=1)
     
     # Write the DataFrame to a CSV file
+    Path("workspace/results/sparsity_ce/joint_eval_aggregated").mkdir(parents=True, exist_ok=True)
     df.to_csv(f'./workspace/results/sparsity_ce/joint_eval_aggregated/sparsity_{model_str}.csv', index=False)
     
     sparsity_df = df
@@ -609,7 +610,7 @@ def plot_top_bottom_evolution(
     base_dir   = "./workspace/logs/ie_dicts_zeroshot"
     save_dir   = f"{base_dir}/version_{version_num}"
     final_path = f"{save_dir}/{task}_ckpt{ckpt_num}_thresh{node_threshold}_n{max_examples}.pt"
-    effects    = torch.load(final_path)
+    effects    = torch.load(final_path, map_location="cpu", weights_only=True)
 
     ckpt_keys = ["m0_layer8_out", "m1_layer8_out", "m2_layer8_out"]
 
@@ -817,6 +818,7 @@ def plot_top_bottom_evolution(
     # 16) Save the figure
     plt.tight_layout()
     if save_path:
+        Path(save_path).parent.mkdir(parents=True, exist_ok=True)
         plt.savefig(save_path, format='pdf', bbox_inches='tight', dpi=300)
     else:
         plt.show()

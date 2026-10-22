@@ -10,6 +10,11 @@ scripts/utils_*
 !scripts/checkpoint_lists/*
 docker/*
 *.DS_Store
+scripts/prepare_crosscoder_release.py
+scripts/paper_crosscoder_manifest.json
+scripts/paper_results_files.txt
+scripts/tests/test_crosscoder_loading.py
+scripts/tests/test_release_download.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

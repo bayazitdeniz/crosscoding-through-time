@@ -8,17 +8,13 @@ from types import SimpleNamespace
 
 from buffer import BufferNNSight
 from sae_lens import SAE
-from crosscoder import CrossCoder, BatchTopKCrossCoder
+from crosscoder import CrossCoder, BatchTopKCrossCoder, list_checkpoint_versions
 
 torch.set_printoptions(precision=8)
 
-def load_crosscoder(project, checkpoint_number=None, path="./workspace/logs/checkpoints", verbose=True):        
+def load_crosscoder(project, checkpoint_number=None, path="./workspace/logs/checkpoints", verbose=True, device=None):
     save_dir = Path(path) / str(project)
-    ckpt_version_list = [
-        int(currfile.name.split(".")[0])
-        for currfile in list(save_dir.iterdir())
-        if ".pt" in str(currfile)
-    ]
+    ckpt_version_list = list_checkpoint_versions(save_dir)
     if checkpoint_number is None:
         if len(ckpt_version_list):
             checkpoint_number = max(ckpt_version_list)
@@ -28,15 +24,17 @@ def load_crosscoder(project, checkpoint_number=None, path="./workspace/logs/chec
     cfg_path = save_dir / f"{str(checkpoint_number)}_cfg.json"
     with open(cfg_path) as f:
         cfg_dict = json.load(f)
+    if device is not None:
+        cfg_dict["device"] = str(device)
     
     print(f"Loading checkpoint #{checkpoint_number} from {save_dir}.")
     crosscoder = None
     if "batch_topk_final" in cfg_dict and cfg_dict["batch_topk_final"] is not None:
         print("Loading BatchTopKCrossCoder ...")
-        crosscoder = BatchTopKCrossCoder.load(version_dir=project, checkpoint_version=checkpoint_number, path=path, verbose=verbose)
+        crosscoder = BatchTopKCrossCoder.load(version_dir=project, checkpoint_version=checkpoint_number, path=path, verbose=verbose, device=device)
     else:
         print("Loading L1 CrossCoder ...")
-        crosscoder = CrossCoder.load(version_dir=project, checkpoint_version=checkpoint_number, path=path, verbose=verbose)
+        crosscoder = CrossCoder.load(version_dir=project, checkpoint_version=checkpoint_number, path=path, verbose=verbose, device=device)
     
     print("Done loading.")
     return crosscoder, cfg_dict, len(ckpt_version_list)
@@ -373,7 +371,7 @@ def main():
     device = 'cuda:0'
         
     # load autoencoder
-    ae_model, cfg, ckpnt_list_len = load_crosscoder(project=args.project_name, path=args.project_path)
+    ae_model, cfg, _ = load_crosscoder(project=args.project_name, path=args.project_path)
         
     print("-" * 60)
     print("Run info:")
@@ -415,7 +413,7 @@ def main():
     
     wandb.init(project="crosscoder-eval", entity=cfg["wandb_entity"], name=cfg["wandb_name"].replace("train-", ""), config=cfg)
     
-    loop_ckpt_list = list(range(ckpnt_list_len))
+    loop_ckpt_list = list_checkpoint_versions(Path(args.project_path) / args.project_name)
     if args.last_ckpt_only:
         loop_ckpt_list = loop_ckpt_list[-1:]
         

@@ -9,6 +9,14 @@ from huggingface_hub import hf_hub_download
 
 DTYPES = {"fp32": torch.float32, "fp16": torch.float16, "bf16": torch.bfloat16}
 
+def list_checkpoint_versions(save_dir):
+    """Return saved checkpoint numbers, including nonconsecutive saves."""
+    return sorted(
+        int(p.stem) for p in Path(save_dir).glob("*.pt")
+        if p.is_file() and p.stem.isdigit()
+    )
+
+
 class CrossCoder(nn.Module):
     # Code initially from: https://github.com/ckkissane/crosscoder-model-diff-replication
     def __init__(self, cfg):
@@ -151,25 +159,33 @@ class CrossCoder(nn.Module):
         instance = cls(cfg)
 
         # Load weights
-        state_dict = torch.load(weights_path, map_location=cfg["device"])
+        state_dict = torch.load(weights_path, map_location=cfg["device"], weights_only=True)
         instance.load_state_dict(state_dict)
 
         return instance
 
     @classmethod
-    def load(cls, version_dir, checkpoint_version, path="./workspace/logs/checkpoints", verbose=True):
+    def load(cls, version_dir, checkpoint_version=None, path="./workspace/logs/checkpoints", verbose=True, device=None):
         # TODO: fix base dir naming to be model agnostic
         #       for now keep it this way because 
         #       the path is hardcoded in the analysis
         save_dir = Path(path) / str(version_dir)
+        if checkpoint_version is None:
+            versions = list_checkpoint_versions(save_dir)
+            if not versions:
+                raise FileNotFoundError(f"No crosscoder checkpoints found in {save_dir}")
+            checkpoint_version = versions[-1]
         cfg_path = save_dir / f"{str(checkpoint_version)}_cfg.json"
         weight_path = save_dir / f"{str(checkpoint_version)}.pt"
 
-        cfg = json.load(open(cfg_path, "r"))
+        with cfg_path.open() as f:
+            cfg = json.load(f)
+        if device is not None:
+            cfg["device"] = str(device)
         if verbose:
             pprint.pprint(cfg)
         self = cls(cfg=cfg)
-        self.load_state_dict(torch.load(weight_path))
+        self.load_state_dict(torch.load(weight_path, map_location=cfg["device"], weights_only=True))
         return self
 
 
